@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd-v3": "^3.26.20-r2.2",
+    "mongoose": "^6.4.4",
+    "react-dropzone": "^14.2.2"
+  }
+}
